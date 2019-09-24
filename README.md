@@ -15,4 +15,4 @@ COMPANY UBICATION PROJECT
 
 
 
-![Possible Ubications World Map](https://raw.githubusercontent.com/CodigoChimuelo/pymongo.project/master/assets/ub_world_map.png)
+![Possible Ubications World Map](https://raw.githubusercontent.com/CodigoChimuelo/pymongo-project/master/assets/ub_world_map.png)
